@@ -1,3 +1,6 @@
+# Stock Portfolio Tracker - CodeAlpha Internship
+# Coder: Wardah Fatima
+
 def get_prices():
     return {
         "APPLE": 180,
