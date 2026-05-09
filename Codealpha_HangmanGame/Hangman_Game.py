@@ -1,3 +1,6 @@
+# Hangman Game - CodeAlpha Internship
+# Coder: Wardah Fatima
+
 import random
 words = {
     "python": "A programming language",
