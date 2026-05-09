@@ -1,3 +1,6 @@
+# Basic Chatbot - CodeAlpha Internship
+# Coder: Wardah Fatima
+
 import random
 import datetime
 
